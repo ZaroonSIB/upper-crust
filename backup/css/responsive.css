@@ -1,0 +1,439 @@
+@media only screen and (max-width: 767px){
+    p, .text{
+        font-size: 14px;
+    }
+    .containerFull{
+        padding:0 15px;
+    }
+    .header{
+        padding:0px 0 0 0;
+    }
+    .large_heading{
+        font-size: 24px;
+        line-height: 33px;
+    }
+    .small_heading{
+        font-size: 20px;
+    }
+    section{
+        overflow:inherit;
+        padding:40px 0;
+    }
+    .heading{
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .sub_heading{
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .leftInnerBlogContent .small_heading{
+        font-size: 20px;
+    }
+    .btnMenu{
+        background: none;
+        border:none;
+        color: #000;
+        font-size: 18px;
+    }
+    .title{
+        font-size: 15px;
+    }
+    .stricky-fixed .btnMenu{
+        color: #000;
+    }
+    .stricky-fixed .leftLogo{
+        width: 200px;
+    }
+    .offcanvas-end {
+        width: 320px;
+    }
+    .offcanvas-body {
+        overflow-x: hidden;
+        padding: 0rem 1rem;
+    }
+    .innerMenu{
+        margin-top: 10px;
+    }
+    .innerMenu ul li ul{
+        display: none;
+        box-shadow: none !important;
+    }
+    .innerMenu ul li a {
+        color: #222;
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        font-size: 14px;
+        padding: 10px;
+        font-weight: 600;
+    }
+    .innerMenu ul li a i{
+        font-size: 12px;
+    }
+    .innerMenu ul li ul li a{
+        font-size: 13px;
+    }
+    .innerMenu ul li a:hover{
+        color: var(--primary-color);
+    }
+    .innerMenu ul li ul.active {
+        display: block;
+    }
+    .followUs {
+        margin-top: 30px;
+        border-top: 1px solid #e0e0e0;
+        padding-top: 30px;
+        padding-left: 15px;
+    }
+    .followUs ul {
+        display: flex;
+        margin-top: 10px;
+    }
+    .followUs ul li a {
+        display: inline-block;
+        padding: 10px;
+        font-size: 18px;
+        color: #333;
+    }
+    .btnTheme{
+        font-size: 13px;
+        padding: 10px 25px;
+    }
+    .leftLogo{
+        width: 225px;
+    }
+    .offcanvas-header .leftLogo img{
+        filter: none;
+        -webkit-filter: none;
+    }
+    .offcanvas-header{
+        border-bottom: 1px solid #e0e0e0;
+    }
+    .carousel-caption div{
+        width: 100%;
+    }
+    .carousel-caption p, .itemRight p, .itemRight ul li{
+        font-size: 14px;
+    }
+    .heroSlider img{
+        height: auto;
+    }
+    .carousel-control-next-icon, .carousel-control-prev-icon{
+        width: 1.5rem;
+    }
+    .rightAboutTop a{
+        font-size: 15px;
+    }
+    .rightAbout{
+        padding: 35px 0 0px;
+    }
+    .innerBusines, .itemBlog{
+        padding: 0;
+    }
+    .blogSlider, .sliderBusiness{
+        margin-top: 25px;
+    }
+    .day{
+        font-size: 15px;
+    }
+    .month{
+        font-size: 15px;
+    }
+    .leftContact{
+        padding: 20px;
+    }
+    .rightContactForm{
+        padding: 15px 0;
+    }
+    .contactBlock{
+        box-shadow: none !important;
+    }
+    .footerMenu ul, .socialMediaIcons ul{
+        flex-wrap: wrap;
+        margin-left: 0;
+    }
+    .socialMediaIcons ul{
+        margin-top: 20px;
+        justify-content: center;
+    }
+    .socialMediaIcons ul li a{
+        margin: 10px 0;
+        font-size: 13px;
+    }
+    .copyRight p{
+        font-size: 13px;
+    }
+    .footerMenu ul li a{
+        font-size: 13px;
+        padding: 5px 10px;
+    }
+    .sticlyItem{
+        position: static;
+    }
+    .copyRight{
+        justify-content: center;
+    }
+    .menuBtn{
+        margin-left: 10px;
+    }
+    .menuBtn span{
+        margin: 5px 0;
+        width: 30px;
+    }
+    .menuBtn span:nth-child(2){
+        width: 20px;
+        margin-left: 10px;
+    }
+    .iconRotate{
+        display: none;
+    }
+    .bannerText{
+        width: 100%;
+        padding: 0px 1.4rem;
+        padding-top: 10rem;
+    }
+    .heroSection img{
+        height: 500px;
+    }
+    .btnBook{
+        font-size: 14px;
+    }
+    .large_heading2{
+        font-size: 68px;
+    }
+    .itemAbout h4{
+        margin-right: 20px;
+    }
+    .rightDrive .small_heading{
+        font-size: 14px;
+    }
+    .rightDrive{
+        margin-top: 15px;
+    }
+    .customPadding{
+        padding: 40px 0;
+    }
+    .iconRatio{
+        width: 70px;
+    }
+    .itemRatio h4{
+        font-size: 15px;
+    }
+    .itemRatio h3.heading{
+        font-size: 32px;
+        margin: 15px 0;
+    }
+    .itemTranslateY{
+        transform: none;
+        -webkit-transform: none;
+        -moz-transform: none;
+        -ms-transform: none;
+        -o-transform: none;
+    }
+    .itemRatio{
+        margin: 15px 0;
+        height: auto;
+    }
+    .btnHeader{
+        padding: 15px 20px;
+        font-size: 12px;
+    }
+    .rightList ul{
+        display: block;
+    }
+    .rightList ul li{
+        width: 100%;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        font-size: 15px;
+    }
+    .rightList ul li::after{
+        top: 11px;
+    }
+    .staticIcon{
+        display: none;
+    }
+    .centerLogo{
+        width: 120px;
+    }
+    .itemCase{
+        margin: 10px 0;
+    }
+    .itemCase{
+        padding: 0;
+    }
+    .itemCase  .sub_heading{
+        font-size: 29px;
+    }
+    .innerTesti{
+        padding: 20px;
+    }
+    .linkBtn{
+        margin-bottom: 15px;
+        font-size: 13px;
+    }
+    .leftItemResources .sub_heading{
+        font-size: 30px;
+    }
+    .rightBlog{
+        padding-left: 0;
+    }
+    .bgSection .leftContact{
+        padding: 0;
+    }
+    .leftContact video{
+        height: auto;
+    }
+    .itemFooter ul li a{
+        padding: 5px 0;
+        font-size: 13px;
+    }
+    .itemFooter{
+        margin-top: 20px;
+    }
+    .menuBtn:hover span:nth-child(2){
+        width: 30px;
+    }
+    .title2{
+        font-size: 15px;
+    }
+    .bottomText{
+        display: none;
+    }
+    .whatsAppIcon a{
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 29px;
+    }
+    .whatsAppIcon {
+        position: fixed;
+        bottom: 73px;
+        right: 8px;
+        z-index: 99;
+    }
+    .go-top{
+        width: 40px;
+        height: 40px;
+        right: 10px;
+    }
+    .go-top i{
+        font-size: 19px;
+    }
+    .form-floating>label{
+        font-size: 14px;
+        padding: 1rem 1.1rem;
+    }
+    .innerPageBanner{
+        height: 450px;
+    }
+    .bannerTextInner{
+        width: 100%;
+        display: block;
+        height: auto;
+    }
+    .rightDrive ul li{
+        font-size: 15px;
+        padding: 10px 15px;
+        padding-left: 20px;
+    }
+    .rightDrive ul li:before{
+        top: 15px;
+    }
+    .leftServies img{
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+    }
+    .small_text{
+        font-size: 16px;
+    }
+    .rightInnerServices{
+        padding: 0;
+        margin: 0;
+    }
+    .leftBlogImg img{
+        height: auto;
+    }
+    .rightBlogInner{
+        padding-left: 0;
+        margin-top: 15px;
+    }
+    .itemRecentBlog{
+        flex-wrap: wrap;
+    }
+    .leftImgRecent{
+        width: 100%;
+    }
+    .rightRecent{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .rightRecent .title{
+        font-size: 18px;
+    }
+    .connectIcon{
+        margin: 25px 0;
+    }
+    .rightCotnactNew{
+        padding-left: 0;
+    }
+    .loader{
+        height: 50px;
+        width: 50px;
+    }
+    .connectIcon h3{
+        font-size: 19px;
+    }
+    .connectIcon h5{
+        font-size: 15px;
+    }
+    .contactRightInner{
+        padding: 30px;
+    }
+    .btnHeader i{
+        font-size: 12px;
+    }
+}
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 990px) {
+}
+@media (min-width: 1024px){
+   
+}
+@media (min-width: 1280px){
+    .containerFull{
+        max-width: 1260px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 1366px){
+    .containerFull{
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+}
+@media (min-width: 1200px){
+    .container{
+        max-width: 1080px;
+    }
+}
+@media (min-width: 1600px){
+    .container{
+        max-width: 1580px;
+        margin: 0 auto;
+    }
+    .rightAction{
+        width: 32%;
+        right: 10%;
+    }
+}
